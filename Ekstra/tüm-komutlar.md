@@ -78,4 +78,4 @@
 
 [![Discord Badge](https://img.shields.io/badge/Join-Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)](https://discord.gg/partnerbot) [![Discord Badge](https://img.shields.io/badge/Invite-Dark-5865F2?logo=discord&logoColor=fff&style=for-the-badge)](https://discord.com/oauth2/authorize?client_id=1157779657467379823&permissions=8&scope=applications.commands%20bot)
 
-[Ana Sayfaya Dön](GETSTARTED.md)
+[Ana Sayfaya Dön](https://github.com/HamsterMert/dark-rehber/blob/main/GETSTARTED.md)
