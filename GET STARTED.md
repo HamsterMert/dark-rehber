@@ -20,4 +20,4 @@
   + [Coinler İle Ne Yapılır?]()
 + [Tüm Komutlar]()
 
-#### HamsterMert ❤️ Dark
+#### HamsterMert ❤️ Dark Team
