@@ -19,3 +19,5 @@
   + [Nasıl Coin Kazanılır?]()
   + [Coinler İle Ne Yapılır?]()
 + [Tüm Komutlar]()
+
+#### HamsterMert ❤️ Dark
