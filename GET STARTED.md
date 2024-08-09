@@ -11,13 +11,13 @@
 
 # 🎢 Hızlı Ulaşım
 
-+ [Partnerlik Sistemi]()
-  + [Kurulum]() 
-+ [Botlist Sistemi]()
-  + [Kurulum]() 
-+ [Ekonomi Hakkında]() 
-  + [Nasıl Coin Kazanılır?]()
-  + [Coinler İle Ne Yapılır?]()
-+ [Tüm Komutlar]()
++ [Partnerlik Sistemi](PartnerlikSistemi/baslarken.md)
+  + [Kurulum](PartnerlikSistemi/kurulum.md) 
++ [Botlist Sistemi](BotlistSistemi/baslarken.md)
+  + [Kurulum](BotlistSistemi/kurulum.md) 
++ [Ekonomi Hakkında](Ekonomi/ekonomi.md) 
+  + [Nasıl Coin Kazanılır?](Ekonomi/nasil-coin-kazanilir.md)
+  + [Coinler İle Ne Yapılır?](Ekonomi/coinler-ile-ne-yapılır.md)
++ [Tüm Komutlar](Ekstra/tüm-komutlar.md)
 
 #### HamsterMert ❤️ Dark Team
